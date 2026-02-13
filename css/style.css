@@ -120,11 +120,11 @@ section{
                 }
                  
                 & .information{
+                    border:  2px solid #791fd3;
                     border-radius: 30px;
                     height: 35px;
                     width: 120px;
                     text-transform: uppercase;
-                    border:  2px solid #791fd3;
                     background-color: #beff1b;
                     color: #000;
                     cursor: pointer;
@@ -363,8 +363,9 @@ section {
 }
 
 .contact-form button {
+    border:  2px solid #791fd3;
+    border-radius: 30px;
     background: #beff1b;
-;
     color: #000;
     border: none;
     padding: 12px;
